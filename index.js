@@ -2,9 +2,9 @@
 var customerName = `bob`
 const leastFavoriteCustomer = 'bob'
 function upperCaseCustomerName(){
-  name = customerName.toUpperCase()
+  customerName.toUpperCase()
   console.log(name)
-  return name
+  
 }
 function setBestCustomer(){
   bestCustomer = 'not bob'
