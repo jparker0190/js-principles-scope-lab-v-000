@@ -8,3 +8,4 @@ function setBestCustomer(){
   let bestCustomer = 'not bob'
   console.log(bestCustomer)
 }
+bestCustomer
