@@ -10,3 +10,7 @@ function setBestCustomer(){
   console.log(bestCustomer)
   return bestCustomer
 }
+function overwriteBestCustomer(){
+  bestCustomer = 'maybe bob'
+  return bestCustomer
+}
